@@ -1,4 +1,4 @@
-# docker-jboss-intellij
+# Docker / JBoss / intellij
 Docker, JBOSS and IntelliJ Project
 
 This is a simple Java, JBoss and Docker project
