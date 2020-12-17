@@ -4,10 +4,11 @@ Docker, JBOSS and IntelliJ Project
 This is a simple Java, JBoss and Docker project
 Made in IntelliJ and ready for use
 
-###How to get it up and running.
+### How to get it up and running.
 First have docker installed:
+https://docs.docker.com/get-docker/
 
-###Then:
+### Then:
 
 ```bash
 git clone https://github.com/MarcRothWiese/docker-jboss-intellij.git
