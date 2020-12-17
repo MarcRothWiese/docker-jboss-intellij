@@ -17,4 +17,4 @@ docker -t simplejboss .
 docker run -d -p 8080:8080 simplejboss
 ```
 
-Go to: http://localhost:8080/
+Go to: http://localhost:8080/simpleboss/
