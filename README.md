@@ -12,9 +12,9 @@ https://docs.docker.com/get-docker/
 
 ```bash
 git clone https://github.com/MarcRothWiese/docker-jboss-intellij.git
-cd docker-jboss-intellij
-docker -t jboss_intellij .
-docker run -d -p 8080:8080 jboss_intellij
+cd docker-simplejboss
+docker -t simplejboss .
+docker run -d -p 8080:8080 simplejboss
 ```
 
 Go to: http://localhost:8080/
